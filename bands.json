@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Deichkind",
+    "genre": "Electro‑Punk",
+    "image": "https://via.placeholder.com/300x200?text=Band+2"
+  },
+  {
+    "name": "Macklemore",
+    "genre": "Hip‑Hop",
+    "image": "https://via.placeholder.com/300x200?text=Band+2"
+  },
+  {
+    "name": "K.I.Z.",
+    "genre": "Hip‑Hop",
+    "image": "https://via.placeholder.com/300x200?text=Band+1"
+  },
+  {
+    "name": "Timmy Trumpet",
+    "genre": "Electronic",
+    "image": "https://via.placeholder.com/300x200?text=Band+2"
+  },
+  {
+    "name": "The Kooks",
+    "genre": "Indie Rock",
+    "image": "https://via.placeholder.com/300x200?text=Band+1"
+  },
+  {
+    "name": "Enter Shikari",
+    "genre": "Post‑Hardcore",
+    "image": "https://via.placeholder.com/300x200?text=Band+6"
+  },
+  {
+    "name": "Frank Turner & The Sleeping Souls",
+    "genre": "Folk Punk",
+    "image": "https://via.placeholder.com/300x200?text=Band+3"
+  },
+  {
+    "name": "Finch",
+    "genre": "Rock",
+    "image": "https://via.placeholder.com/300x200?text=Band+7"
+  },
+  {
+    "name": "Millencolin",
+    "genre": "Punk Rock",
+    "image": "https://via.placeholder.com/300x200?text=Band+8"
+  },
+  {
+    "name": "Leoniden",
+    "genre": "Indie",
+    "image": "https://via.placeholder.com/300x200?text=Band+5"
+  }
+]
