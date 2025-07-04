@@ -1,0 +1,6 @@
+# Ignore dependencies and build output
+node_modules/
+dist/
+# Mac/Windows system files
+.DS_Store
+Thumbs.db

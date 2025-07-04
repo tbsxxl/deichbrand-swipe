@@ -1,0 +1,8 @@
+{
+  "name": "deichbrand-swipe",
+  "version": "1.0.0",
+  "description": "Festival band swipe demo",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
